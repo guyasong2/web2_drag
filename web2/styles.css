@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+}
+
+.card {
+    max-width: 600px;
+    margin: 50px auto; 
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+    width: 70%;
+}
+
+button {
+    padding: 10px;
+    background: #2563eb;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+li {
+    list-style: none;
+    background: #f9f9f9;
+    margin: 10px auto;
+    padding: 10px;
+}
